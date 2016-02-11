@@ -4,5 +4,5 @@
  * QA
  * Java
  * Maven
-
+ 
  [Jean-francois Nepton](http://sqasolution.com)
